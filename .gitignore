@@ -1,0 +1,16 @@
+# Ignore heavy raw datasets (generated locally)
+*.csv
+*.zip
+
+# Python & Jupyter cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Environment
+.env
+venv/
+env/
+
