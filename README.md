@@ -1,6 +1,6 @@
 # ❤️ CardioRisk AI — Détection & Dépistage du Risque Cardiovasculaire
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen?logo=github)](https://votre-pseudo.github.io/votre-repo/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen?logo=github)](https://yousefharizi.github.io/ML_ModelObj6/)
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-red?logo=streamlit)](https://share.streamlit.io/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -12,8 +12,8 @@
 
 ## 🌐 Liens de l'Application Déployée
 
-* **Site Web en Ligne (GitHub Pages) :** `https://<votre-pseudo-github>.github.io/<nom-du-repo>/`
-* **Application Streamlit Cloud :** `https://<nom-du-repo>.streamlit.app`
+* **Site Web en Ligne (GitHub Pages) :** `https://yousefharizi.github.io/ML_ModelObj6/`
+* **Application Streamlit Cloud :** `https://mlmodelobj6.streamlit.app`
 
 ---
 
@@ -63,8 +63,8 @@ Les cardiopathies ischémiques représentent la première cause de mortalité da
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/<votre-pseudo>/<nom-du-repo>.git
-   cd <nom-du-repo>
+   git clone https://github.com/YousefHarizi/ML_ModelObj6.git
+   cd ML_ModelObj6
    ```
 
 2. **Lancer le site Web Streamlit en local :**
